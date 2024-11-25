@@ -26,3 +26,6 @@ In the output, you'll find options to open the app in a
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 ## ScreenShot
+<div style="float: right;">
+    <img src="https://github.com/Lelegoyeng/my-sosmed-expo/blob/main/screenshot/Screenshot_start.png" alt="Gambar 1" width="150" height="320">
+</div>
