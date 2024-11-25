@@ -27,5 +27,5 @@ You can start developing by editing the files inside the **app** directory. This
 
 ## ScreenShot
 <div style="float: right;">
-    <img src="https://github.com/Lelegoyeng/my-sosmed-expo/blob/main/screenshot/Screenshot_start.png" alt="Gambar 1" width="150" height="320">
+    <img src="https://github.com/Lelegoyeng/my-sosmed-expo/blob/main/screenshoot/Screenshot_start.png" alt="Gambar 1" width="150" height="320">
 </div>
